@@ -15,3 +15,6 @@ public/
 
 # Local Netlify folder
 .netlify
+
+# origin rustlings
+rustlings/
